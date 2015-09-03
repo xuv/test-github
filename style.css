@@ -1,4 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: darkgrey;
+}
+
 div {
 	background: black;
 	border: solid 10px green;
+    color: white;
+    padding: 10px;
 } 
